@@ -2,7 +2,7 @@
 
 ## A drop-in replacement for the [DL2MAN Sandwich Mainboard v2.4](https://dl2man.de/mainboard/)
 
-![tqfp-sandwitch](tqfp-sandwitch.jpg)
+![tqfp-sandwitch](tqfp-sandwitch.png)
 
 Benefits:
 
@@ -14,11 +14,5 @@ Benefits:
 
 Parts not available (or currently not in stock) at LCSC that need to be sourced and installed autonomously:
 
-- FST3253MTCX
-- ASTX-H11-27.000MHZ-T
-- LM4562MAX
 - PJ-18H
-
-Known Issues:
-
-So far I have been unable to source a Chinese TCXO that can reliably replace the ASTX-H11. If you have more luck, please let me know
+- Si5351
